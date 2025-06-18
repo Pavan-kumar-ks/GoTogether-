@@ -53,7 +53,7 @@ Follow these steps to run the project on your local machine:
 git clone https://github.com/Pavan-kumar-ks/GoTogether-.git
 cd GoTogether-
 
-
+```
 ### **2. Start the Backend**
      cd backend
      npm install
