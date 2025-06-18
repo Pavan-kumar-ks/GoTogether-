@@ -65,7 +65,7 @@ cd GoTogether-
      npm install
      npm start
 
- ###**4.Visit**
+ **4.Visit**
    http://localhost:3000
 
 
