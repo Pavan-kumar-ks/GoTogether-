@@ -65,12 +65,13 @@ cd GoTogether-
      npm install
      npm start
 
- ###***4.Visit**
+ ###**4.Visit**
    http://localhost:3000
 
 
 👨‍💻 Author
 **Pavan Kumar K S**
+
 GitHub: [@Pavan-kumar-ks](https://github.com/Pavan-kumar-ks)    
 LinkedIn: [Pavan Kumar K S](https://www.linkedin.com/in/pavan-kumar-k-s/) 
 
