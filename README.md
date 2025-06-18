@@ -44,22 +44,22 @@ GoTogether/
 
 ## 🚧 How to Run Locally
 
-1. **Clone the repository**
-   git clone https://github.com/Pavan-kumar-ks/GoTogether-.git
-   cd GoTogether-
+   1. **Clone the repository**
+      git clone https://github.com/Pavan-kumar-ks/GoTogether-.git
+      cd GoTogether-
+      
+   2. Start the Backend
+     cd backend
+     npm install
+     npm start
    
-2. Start the Backend
-  cd backend
-  npm install
-  npm start
-
-3.Start the Frontend
-  cd ../frontend
-  npm install
-  npm start
-  
-4.Visit
-http://localhost:3000
+   3.Start the Frontend
+     cd ../frontend
+     npm install
+     npm start
+     
+   4.Visit
+   http://localhost:3000
 
 👨‍💻 Author
 **Pavan Kumar K S**
