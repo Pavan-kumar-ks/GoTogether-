@@ -53,13 +53,13 @@ GoTogether/
      npm install
      npm start
    
-   3.Start the Frontend
-     cd ../frontend
-     npm install
-     npm start
-     
-   4.Visit
-   http://localhost:3000
+      3.Start the Frontend
+        cd ../frontend
+        npm install
+        npm start
+        
+      4.Visit
+      http://localhost:3000
 
 👨‍💻 Author
 **Pavan Kumar K S**
